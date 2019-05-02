@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+    <application name="UseEventsApp">
+        <crown name="UseEventsApp">
+            <desc>user script</desc>
+        </crown>
+        <meta key="author">AppSpace Sample</meta>
+        <meta key="version">2.5.0</meta>
+        <meta key="licensed">false</meta>
+        <meta key="priority">low</meta>
+        <meta key="copy-protected">false</meta>
+        <meta key="read-protected">false</meta>
+        <meta key="tags">Serves</meta>
+        <entry path="scripts" default="UsingEvent.lua">
+            <file type="text/x-lua">UsingEvent.lua</file>
+        </entry>
+    </application>
+</manifest>
