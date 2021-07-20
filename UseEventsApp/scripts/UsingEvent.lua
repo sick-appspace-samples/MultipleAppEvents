@@ -1,14 +1,3 @@
---[[----------------------------------------------------------------------------
-
-  Application Name: UseEvent
-
-  Description:
-  This sample app registers to an event which is served from another app.
-
-  To demonstrate, this App must be started together with the sample app
-  'ServeEventsApp', in which the event will be served and also be notified.
-
-------------------------------------------------------------------------------]]
 
 --Start of Function and Event Scope---------------------------------------------
 

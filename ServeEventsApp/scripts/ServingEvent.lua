@@ -1,14 +1,4 @@
---[[----------------------------------------------------------------------------
 
-  Application Name: ServeEventsApp
-
-  Description:
-  This sample app serves an event on which another app can register.
-
-  To demonstrate, this App must be started together with the sample app
-  'UseEventsApp', in which a function is registered to the event.
-  The serving of the event is also noted in the App Properties
-------------------------------------------------------------------------------]]
 --Start of Global Scope---------------------------------------------------------
 
 local counter = 0
