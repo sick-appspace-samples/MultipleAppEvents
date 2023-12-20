@@ -19,7 +19,7 @@ local function handleOnStarted()
 end
 Script.register("Engine.OnStarted", handleOnStarted)
 
--- Is called every time the timer expires
+---Is called every time the timer expires
 local function handleOnExpired()
   counter = counter + 1
   -- Also a parameter can be passed with the event

@@ -1,8 +1,8 @@
 
 --Start of Function and Event Scope---------------------------------------------
 
--- This function is called every time when "MyServedEvent" occurs.
--- The parameter is passed with the event notification
+---This function is called every time when "MyServedEvent" occurs.
+---The parameter is passed with the event notification
 local function handleMyServedEvent(myParameter)
   print("The Event occurred")
   print(myParameter)
